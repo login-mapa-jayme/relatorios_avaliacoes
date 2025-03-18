@@ -1,0 +1,39 @@
+div.st-emotion-cache-1r6slb0{
+    text-align: center;
+    background-color: #dde8f2;
+    border: 2px solid #0410f8;
+    padding: 2% 0% 2% 2%;
+    border-radius: 10px;
+    height: 140px;
+    font-size: 10px;
+}
+
+div.st-emotion-cache-16idsysl{
+    text-align: center;
+    background-color: #dde8f2;
+    border: 2px solid #0410f8;
+    padding: 2% 1% 2% 2%;
+    border-radius: 10px;
+    height: 140px;
+    font-size: 10px;
+}
+
+
+
+div.st-emotion-cache-12w0qpk{
+    text-align: center;
+    background-color: #dde8f2;
+    border: 2px solid #0410f8;
+    padding: 2% 0% 2% 1%;
+    border-radius: 10px;
+    width: 260px;
+    height: 140 0px;
+    font-size: 10px;
+}
+
+[data-testid="stMetricDelta"] svg {
+    display: none;
+}
+
+
+

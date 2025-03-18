@@ -1,0 +1,13 @@
+plotly >= 5.24.1
+streamlit == 1.38.0
+pandas
+openpyxl
+Pillow
+jsonschema
+requests
+plotly_express
+streamlit-analytics
+streamlit-metrics
+matplotlib
+pdfkit
+wkhtmltopdf
